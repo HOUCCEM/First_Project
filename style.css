@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    padding: 100px;
+    background-color: #2c3e50;
+    color:white;
+
+}
+div{
+    width: 50px;
+    height: 50px;
+    border: 1px solid white;
+}
+
+.boxes{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    height: auto;
+    width: auto;
+    border: none;
+    :hover{
+        cursor: pointer;
+    }
+.bg_vert{
+    background-color: #2ecc71;
+}
+.bg_blue{
+    background-color:#2980b9;
+}
+.bg_orange{
+    background-color:#e67e22;
+}
+.bg_rouge{
+    background-color:#e74c3c;
+}
+.bg_jaune{
+    background-color:#f1c40f;
+}
+}
